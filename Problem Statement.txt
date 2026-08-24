@@ -1,0 +1,20 @@
+1. Problem Statement:
+         In many organizations, an employee's salary is influenced by various factors such as age, education, job role, years of experience, skills, and working hours. Analyzing these factors manually can be time-consuming and may not always provide consistent results. The problem is to develop an AIML-based system that analyzes employee-related data and predicts the employee's salary category as Low, Medium, or High.
+
+2. Identify AIML:
+        1. Domain: Artificial Intelligence and Machine Learning (AIML).
+        2. Machine Learning Type: Supervised Learning.
+        3. Problem Type: Classification.
+        4. Target Variable: Salary Category.
+
+3. Define Objective:
+        The main objective of this project is to develop a Machine Learning model that predicts an employee's salary category based on their personal, educational, and professional information.
+
+    Objectives:
+        1. To collect and preprocess employee data.
+        2. To identify the factors that influence employee salary.
+        3. To classify employees into Low, Medium, and High salary categories.
+        4. To train and test different machine learning classification algorithms.
+        5. To evaluate and compare the performance of the models.
+        6. To select the best-performing model for salary category prediction.
+        7. To predict the salary category of new employees based on their input data.
